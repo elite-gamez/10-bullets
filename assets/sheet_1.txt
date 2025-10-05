@@ -1,0 +1,768 @@
+sheet_1.png
+size: 1024, 2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+booster
+  rotate: false
+  xy: 909, 813
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+booster_1_mini
+  rotate: false
+  xy: 1006, 115
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+booster
+  rotate: false
+  xy: 943, 829
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+booster_2_mini
+  rotate: false
+  xy: 1006, 133
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+booster
+  rotate: false
+  xy: 909, 847
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+booster_3_mini
+  rotate: false
+  xy: 1005, 151
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+booster
+  rotate: false
+  xy: 977, 829
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+booster_4_mini
+  rotate: false
+  xy: 752, 458
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+booster
+  rotate: false
+  xy: 943, 863
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+booster_5_mini
+  rotate: false
+  xy: 850, 876
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+booster
+  rotate: false
+  xy: 977, 863
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+booster_6_mini
+  rotate: false
+  xy: 850, 894
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+booster
+  rotate: false
+  xy: 379, 840
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+booster_7_mini
+  rotate: false
+  xy: 850, 912
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+boosterBg
+  rotate: false
+  xy: 870, 606
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+btnAchievements
+  rotate: false
+  xy: 770, 466
+  size: 121, 20
+  orig: 121, 20
+  offset: 0, 0
+  index: -1
+btnAndroid
+  rotate: false
+  xy: 772, 370
+  size: 147, 46
+  orig: 147, 46
+  offset: 0, 0
+  index: -1
+btnBackToSelection
+  rotate: false
+  xy: 923, 362
+  size: 99, 20
+  orig: 99, 20
+  offset: 0, 0
+  index: -1
+btnControls
+  rotate: false
+  xy: 921, 447
+  size: 95, 20
+  orig: 95, 20
+  offset: 0, 0
+  index: -1
+btnExit
+  rotate: false
+  xy: 957, 2
+  size: 63, 20
+  orig: 63, 20
+  offset: 0, 0
+  index: -1
+btnFirstEpisode
+  rotate: false
+  xy: 870, 685
+  size: 115, 20
+  orig: 115, 20
+  offset: 0, 0
+  index: -1
+btnIphone
+  rotate: false
+  xy: 772, 418
+  size: 147, 46
+  orig: 147, 46
+  offset: 0, 0
+  index: -1
+btnLeaderboard
+  rotate: false
+  xy: 870, 707
+  size: 115, 20
+  orig: 115, 20
+  offset: 0, 0
+  index: -1
+btnLetsGo
+  rotate: false
+  xy: 920, 469
+  size: 87, 20
+  orig: 87, 20
+  offset: 0, 0
+  index: -1
+btnNo
+  rotate: false
+  xy: 955, 102
+  size: 49, 20
+  orig: 49, 20
+  offset: 0, 0
+  index: -1
+btnOneMoreShot
+  rotate: false
+  xy: 772, 329
+  size: 149, 22
+  orig: 149, 22
+  offset: 0, 0
+  index: -1
+btnPause
+  rotate: false
+  xy: 957, 24
+  size: 63, 20
+  orig: 63, 20
+  offset: 0, 0
+  index: -1
+btnReplay
+  rotate: false
+  xy: 921, 384
+  size: 101, 20
+  orig: 101, 20
+  offset: 0, 0
+  index: -1
+btnResetData
+  rotate: false
+  xy: 870, 729
+  size: 115, 20
+  orig: 115, 20
+  offset: 0, 0
+  index: -1
+btnShop
+  rotate: false
+  xy: 955, 46
+  size: 67, 20
+  orig: 67, 20
+  offset: 0, 0
+  index: -1
+btnSoundOff
+  rotate: false
+  xy: 987, 695
+  size: 32, 70
+  orig: 32, 70
+  offset: 0, 0
+  index: -1
+btnSoundOn
+  rotate: false
+  xy: 449, 780
+  size: 32, 70
+  orig: 32, 70
+  offset: 0, 0
+  index: -1
+btnUpgrade
+  rotate: false
+  xy: 920, 491
+  size: 87, 20
+  orig: 87, 20
+  offset: 0, 0
+  index: -1
+btnYes
+  rotate: false
+  xy: 955, 124
+  size: 49, 20
+  orig: 49, 20
+  offset: 0, 0
+  index: -1
+controls
+  rotate: false
+  xy: 2, 2
+  size: 768, 384
+  orig: 768, 384
+  offset: 0, 0
+  index: 0
+gameover_scoreFeedbackBg
+  rotate: false
+  xy: 772, 31
+  size: 181, 127
+  orig: 181, 127
+  offset: 0, 0
+  index: -1
+gameOverBg
+  rotate: false
+  xy: 481, 876
+  size: 367, 228
+  orig: 367, 228
+  offset: 0, 0
+  index: -1
+gameOverGoldLabel
+  rotate: false
+  xy: 955, 146
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+gaugeShop
+  rotate: false
+  xy: 939, 169
+  size: 83, 7
+  orig: 83, 7
+  offset: 0, 0
+  index: 0
+gaugeShop
+  rotate: false
+  xy: 939, 178
+  size: 83, 7
+  orig: 83, 7
+  offset: 0, 0
+  index: 1
+gaugeShop
+  rotate: false
+  xy: 939, 187
+  size: 83, 7
+  orig: 83, 7
+  offset: 0, 0
+  index: 2
+gaugeShop
+  rotate: false
+  xy: 484, 476
+  size: 83, 7
+  orig: 83, 7
+  offset: 0, 0
+  index: 3
+gaugeShop
+  rotate: false
+  xy: 569, 476
+  size: 83, 7
+  orig: 83, 7
+  offset: 0, 0
+  index: 4
+gaugeShop
+  rotate: false
+  xy: 654, 476
+  size: 83, 7
+  orig: 83, 7
+  offset: 0, 0
+  index: 5
+gaugeTimeRemaining
+  rotate: false
+  xy: 772, 189
+  size: 156, 36
+  orig: 156, 36
+  offset: 0, 0
+  index: -1
+gold
+  rotate: false
+  xy: 850, 930
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goldMini
+  rotate: false
+  xy: 1009, 511
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+grabber_0
+  rotate: false
+  xy: 1009, 100
+  size: 13, 13
+  orig: 13, 14
+  offset: 0, 0
+  index: 0
+grabber_0
+  rotate: false
+  xy: 1009, 469
+  size: 13, 12
+  orig: 13, 14
+  offset: 0, 0
+  index: 1
+grabber_0
+  rotate: false
+  xy: 1009, 68
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: 2
+grabber_0
+  rotate: false
+  xy: 1009, 84
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: 3
+hero_0
+  rotate: false
+  xy: 924, 237
+  size: 96, 40
+  orig: 100, 40
+  offset: 2, 0
+  index: 0
+hero_0
+  rotate: false
+  xy: 924, 321
+  size: 96, 39
+  orig: 100, 40
+  offset: 2, 0
+  index: 1
+hero_1
+  rotate: false
+  xy: 924, 279
+  size: 96, 40
+  orig: 100, 40
+  offset: 2, 0
+  index: 0
+hero_1
+  rotate: false
+  xy: 921, 406
+  size: 96, 39
+  orig: 100, 40
+  offset: 2, 0
+  index: 1
+lootExtraBullet
+  rotate: false
+  xy: 998, 671
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+lootExtraSpecialShip
+  rotate: false
+  xy: 379, 899
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+lootGold_big
+  rotate: false
+  xy: 998, 645
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+lootGold_mid
+  rotate: false
+  xy: 443, 958
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+lootGold_small
+  rotate: false
+  xy: 1009, 511
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+lootSpecialWave
+  rotate: false
+  xy: 443, 886
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: 1
+lootSpecialWave
+  rotate: false
+  xy: 443, 910
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: 2
+lootSpecialWave
+  rotate: false
+  xy: 443, 934
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: 3
+menu_10Bullets
+  rotate: false
+  xy: 2, 780
+  size: 445, 58
+  orig: 445, 58
+  offset: 0, 0
+  index: -1
+menu_btnModeArcade
+  rotate: false
+  xy: 772, 160
+  size: 165, 27
+  orig: 165, 27
+  offset: 0, 0
+  index: -1
+menu_btnModePvp
+  rotate: false
+  xy: 772, 2
+  size: 183, 27
+  orig: 183, 27
+  offset: 0, 0
+  index: -1
+menu_more
+  rotate: false
+  xy: 412, 874
+  size: 29, 128
+  orig: 29, 128
+  offset: 0, 0
+  index: -1
+messageHighScore
+  rotate: false
+  xy: 2, 840
+  size: 375, 60
+  orig: 375, 60
+  offset: 0, 0
+  index: -1
+monster_1
+  rotate: false
+  xy: 870, 653
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: 0
+monster_2
+  rotate: false
+  xy: 893, 466
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: 0
+monster_3_big
+  rotate: false
+  xy: 870, 751
+  size: 74, 60
+  orig: 74, 60
+  offset: 0, 0
+  index: 0
+monster_3_big
+  rotate: false
+  xy: 946, 767
+  size: 74, 60
+  orig: 74, 60
+  offset: 0, 0
+  index: 1
+monster_3_mid
+  rotate: false
+  xy: 870, 498
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: 0
+monster_3_mid
+  rotate: false
+  xy: 870, 552
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: 1
+monster_3_very_big
+  rotate: false
+  xy: 915, 521
+  size: 103, 60
+  orig: 103, 60
+  offset: 0, 0
+  index: 0
+monster_3_very_big
+  rotate: false
+  xy: 915, 583
+  size: 103, 60
+  orig: 103, 60
+  offset: 0, 0
+  index: 1
+monster_5
+  rotate: false
+  xy: 870, 813
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: 0
+monster_5
+  rotate: false
+  xy: 870, 845
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: 1
+monster_6
+  rotate: false
+  xy: 868, 911
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: 0
+monster_8
+  rotate: false
+  xy: 379, 874
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: 0
+newHighscore
+  rotate: false
+  xy: 936, 196
+  size: 84, 34
+  orig: 84, 34
+  offset: 0, 0
+  index: 0
+newHighscore
+  rotate: false
+  xy: 912, 645
+  size: 84, 34
+  orig: 84, 34
+  offset: 0, 0
+  index: 1
+nuage
+  rotate: false
+  xy: 955, 68
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: 0
+panelConfirm
+  rotate: false
+  xy: 2, 902
+  size: 367, 139
+  orig: 367, 139
+  offset: 0, 0
+  index: -1
+particuleExplosionSmall
+  rotate: false
+  xy: 943, 164
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+particuleFirework
+  rotate: false
+  xy: 947, 160
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: 0
+particuleFirework
+  rotate: false
+  xy: 930, 189
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: 1
+particuleFirework
+  rotate: false
+  xy: 930, 195
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: 2
+particuleFirework
+  rotate: false
+  xy: 930, 201
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: 3
+particuleFirework
+  rotate: false
+  xy: 930, 207
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: 4
+particuleFirework
+  rotate: false
+  xy: 930, 213
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: 5
+particuleFirework
+  rotate: false
+  xy: 930, 219
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: 6
+particuleFirework
+  rotate: false
+  xy: 930, 225
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: 7
+particuleFirework
+  rotate: false
+  xy: 924, 227
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: 8
+particuleFirework
+  rotate: false
+  xy: 930, 231
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: 9
+projectile_0
+  rotate: false
+  xy: 1009, 483
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 0
+projectile_1
+  rotate: false
+  xy: 1009, 497
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 0
+pvpModeBg
+  rotate: false
+  xy: 772, 227
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+rain
+  rotate: false
+  xy: 939, 160
+  size: 2, 6
+  orig: 2, 6
+  offset: 0, 0
+  index: -1
+shopBg
+  rotate: false
+  xy: 2, 458
+  size: 480, 320
+  orig: 480, 320
+  offset: 0, 0
+  index: -1
+shopItem
+  rotate: false
+  xy: 413, 840
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+shopItem
+  rotate: false
+  xy: 447, 852
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+shopItem
+  rotate: false
+  xy: 868, 877
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+shopItem
+  rotate: false
+  xy: 902, 881
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+sky
+  rotate: false
+  xy: 484, 488
+  size: 384, 192
+  orig: 384, 192
+  offset: 0, 0
+  index: 0
+sky
+  rotate: false
+  xy: 484, 682
+  size: 384, 192
+  orig: 384, 192
+  offset: 0, 0
+  index: 1
+tutoGrabber
+  rotate: false
+  xy: 772, 353
+  size: 149, 15
+  orig: 149, 15
+  offset: 0, 0
+  index: 0
+tutoGrabber
+  rotate: false
+  xy: 484, 458
+  size: 266, 15
+  orig: 270, 15
+  offset: 0, 0
+  index: 1
+tutoModePvp
+  rotate: false
+  xy: 2, 388
+  size: 768, 68
+  orig: 768, 121
+  offset: 0, 53
+  index: -1
