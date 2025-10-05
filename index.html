@@ -1,0 +1,102 @@
+<!doctype html>
+<script>if (window.parent !== window.self) window.parent.postMessage("bonk", "*"); window.addEventListener("DOMContentLoaded", function() {document.body.style.margin = "0";document.body.style.height = "100vh";document.body.style.overflow = "hidden"})</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H40DD7W802"></script><script>window.dataLayer = window.dataLayer || [];function gtag() { dataLayer.push(arguments); }gtag("js", new Date());gtag("config", "G-H40DD7W802", {"send_page_view": false});gtag("event", "page_view", {dimension1: location.href, dimension2: location.host});</script>
+<script src="/nc/script.min.js"></script><html>
+
+<head>
+    <title>10 More Bullets</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <link href="styles.css" rel="stylesheet" type="text/css">
+    <script>
+        var origOpen = XMLHttpRequest.prototype.open;
+        XMLHttpRequest.prototype.open = function(...args) {
+            console.log(args);
+        	args[1] = /^http/.test(args[1]) && !args[1].includes(window.location.host) ? 'https://onebigstatic-tmm.tbt.mx/static/' + args[1] : args[1];
+        	origOpen.apply(this, args);
+        };
+    </script>
+    <script src="soundmanager2-setup.js"></script>
+    <script src="soundmanager2-jsmin.js"></script>
+</head>
+
+<body>
+    <div align="center" id="embed-html"></div>
+    <script type="text/javascript" src="html/html.nocache.js"></script>
+</body>
+<script>
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-43710307-9']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+
+
+    var isFirstClick = true;
+
+    function handleMouseDown(evt) {
+        evt.preventDefault();
+        evt.stopPropagation();
+        evt.target.style.cursor = 'default';
+        window.focus();
+
+    }
+
+    function handleMouseUp(evt) {
+        evt.preventDefault();
+        evt.stopPropagation();
+        evt.target.style.cursor = '';
+    }
+
+    function handleTouchStart(evt) {
+
+        if (isFirstClick) {
+            isFirstClick = false;
+            //window.initGwt();
+        }
+
+    }
+
+    document.getElementById('embed-html').addEventListener('mousedown', handleMouseDown, false);
+    document.getElementById('embed-html').addEventListener('mouseup', handleMouseUp, false);
+    document.getElementById('embed-html').addEventListener('touchstart', handleTouchStart, false);
+
+    window.onkeypress =
+        function(event) {
+            // prevent the space key (page scroll down)
+            if (event.keyCode == 32) {
+                event.preventDefault();
+                return false;
+            }
+        };
+
+    window.onkeydown =
+        function(event) {
+            // prevent all navigation keys except the space key
+            if (event.keyCode >= 32 && event.keyCode <= 40) {
+                event.preventDefault();
+                return false;
+            }
+        };
+
+
+
+    document.addEventListener("visibilitychange", function() {
+        if (document.hidden) {
+            //console.log("Browser tab is hidden");
+            window.onTabHidden();
+        }
+        else {
+            //console.log("Browser tab is visible");
+            window.onTabVisible();
+        }
+    });
+</script>
+
+</html>
